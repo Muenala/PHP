@@ -1,0 +1,7 @@
+{
+    "name": "kovi/phpmailer",
+    "description": "phpmailer",
+    "require": {
+        "phpmailer/phpmailer": "^6.3"
+    }
+}
